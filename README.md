@@ -1,2 +1,4 @@
+<a id="top"></a>
 # heatpy
-Python libraries to solve heat and mass transfer problem mostly in 1D
+
+Python libraries for the solution of heat and mass transfer problems, mostly in 1D.
